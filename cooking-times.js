@@ -76,7 +76,7 @@
             boil: "10 - 15 mins",
             microwave: "5 - 8 mins",
             steam: "15 - 20 mins",
-            roast: "40 - 80 mins
+            roast: "40 - 80 mins"
             };
 
       let peppers = {
